@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MIS421Capstone.Models;
 
 namespace MIS421Capstone.Data
 {
@@ -9,5 +10,6 @@ namespace MIS421Capstone.Data
             : base(options)
         {
         }
+        public DbSet<MIS421Capstone.Models.Exercise> Exercise { get; set; }
     }
 }
