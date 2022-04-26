@@ -4,7 +4,7 @@ namespace MIS421Capstone.Models
     {
 
         public int Id { get; set; }
-        public DateOnly date { get; set; }
+        public DateTime date { get; set; }
 
         public List<Exercise> exercises { get; set; }
 
