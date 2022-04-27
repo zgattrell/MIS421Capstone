@@ -4,40 +4,49 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Please don't say the n word please i find it very offensive please</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
 <table class="table">
     <thead>
+        
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.date)
-            </th>
             <th>
                 @Html.DisplayNameFor(model => model.Journal)
             </th>
+        </tr>
+
+        <tr>
             <th>
                 Breakfast
             </th>
+        </tr>
+            
+        <tr>
             <th>
                 Lunch
             </th>
+        </tr>
+            
+        <tr>
             <th>
                 Dinner
             </th>
+        </tr>
+            
+        <tr>
             <th>
                 Snacks
             </th>
         </tr>
+            
+        </t>
     </thead>
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.date)
-            </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Journal)
             </td>
