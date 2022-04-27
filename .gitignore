@@ -24,7 +24,7 @@ _UpgradeReport_Files/
 # Directories #
 ###############
 bin/
-obj/
+MIS421Capstone/obj/
 .vs/
 TestResults/
 ###################
