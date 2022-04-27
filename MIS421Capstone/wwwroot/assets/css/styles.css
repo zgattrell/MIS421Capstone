@@ -30,6 +30,9 @@
         width: 350px;
         /* Home index.cshtml line 13 */
     }
+    li .text-dark {
+        color: white !important;
+    }
 
 /* End Section 1 */
 
