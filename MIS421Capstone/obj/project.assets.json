@@ -10058,19 +10058,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\trist\\.nuget\\packages\\": {}
+    "C:\\Users\\zacha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trist\\OneDrive\\Desktop\\MIS 421\\Final Project\\MIS421Capstone\\MIS421Capstone.csproj",
+      "projectUniqueName": "C:\\Users\\zacha\\source\\repos\\MIS421Capstone\\MIS421Capstone\\MIS421Capstone.csproj",
       "projectName": "MIS421Capstone",
-      "projectPath": "C:\\Users\\trist\\OneDrive\\Desktop\\MIS 421\\Final Project\\MIS421Capstone\\MIS421Capstone.csproj",
-      "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trist\\OneDrive\\Desktop\\MIS 421\\Final Project\\MIS421Capstone\\obj\\",
+      "projectPath": "C:\\Users\\zacha\\source\\repos\\MIS421Capstone\\MIS421Capstone\\MIS421Capstone.csproj",
+      "packagesPath": "C:\\Users\\zacha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\zacha\\source\\repos\\MIS421Capstone\\MIS421Capstone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zacha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10145,7 +10145,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
